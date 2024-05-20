@@ -1,0 +1,28 @@
+html{
+	background-color: white;
+	font-family: 'Helvetica';
+	padding: 30px;
+	text-align: justify;
+}
+
+h1{
+	font-size: 60px;
+}
+
+a{
+	color: #dd8d9a;
+	border: 2px solid #dd8d9a;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+a:hover{
+	color: white;
+	background-color: #d85f5f;
+	border: 2px solid #d85f5f;
+	box-shadow: 2px 3px 3px #c4c4c4;
+}
